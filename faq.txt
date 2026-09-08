@@ -1,0 +1,16 @@
+FAQ - AI Student Support System
+
+Q1. What is the minimum attendance required?
+A1. Students should maintain the required attendance percentage according to college rules.
+
+Q2. Where can I find the syllabus?
+A2. The syllabus is available in the college academic documents.
+
+Q3. What are the examination rules?
+A3. Students should follow all examination rules and instructions issued by the college.
+
+Q4. How can I get academic information?
+A4. Students can ask the AI Student Support Assistant for information available in the college documents.
+
+Q5. What information can the AI Student Support System provide?
+A5. The system provides information about syllabus, examinations, academic rules, FAQs and college notices.
